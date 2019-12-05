@@ -1,0 +1,31 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: blue;
+    padding:20px;
+}
+#header{
+    text-align:center;
+    padding:20px;
+}
+#container{
+    max-width:768px;
+    margin:auto;
+}
+input{
+    font-size:1.2em;
+    padding:2px;
+}
+h1{
+    font-size:4em;
+    color:white;
+}
+h2{
+    font-size: 2em;
+    color:white;
+}
+
+
